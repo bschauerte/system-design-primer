@@ -5,7 +5,7 @@
 # The System Design Primer
 
 <p align="center">
-  <img src="images/jj3A5N8.png" style="background-color: #444444">
+  <img src="images/jj3A5N8.png#gh-light-mode-only" style="background-color: #444444">
   <br/>
 </p>
 
