@@ -5,7 +5,7 @@
 # The System Design Primer
 
 <p align="center">
-  <img src="images/jj3A5N8.png" style="background-color: #0000ff; background-color:rgba(0,0,255,0.3);">
+  <img src="images/jj3A5N8.png" style="background-color: #ffffff">
   <br/>
 </p>
 
